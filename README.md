@@ -2,7 +2,7 @@
 This is the [DroneBD Server](https://ancient-temple-50859.herokuapp.com/)
 
 ## Short Description
-This server side offer a vast of services. We can get,update,post of every route in our database. Using express as a framework of this nodejs based server, this work is done effienciently. Used dotnev for securing database information.
+This server side offer a vast of services. We can get,update,post of every route in our database. Using express as a framework of this nodejs based server, this work is done efficiently. Used dotnev for securing database information.
 
 ### Available Features
 - After getting respond from Client Side, this server side Get data from orders,products,reviews database collection.
